@@ -1,8 +1,10 @@
-[![MasterHead](https://jonmgomes.com/wp-content/uploads/2020/05/Comp_1.gif)]
 <h1 align="center">Hi 👋, I'm Atheeq</h1>
 <h3 align="center">A Passionate Learner. Consistently focused on improving Problem Solving Skills.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atheeq2003" alt="atheeq2003" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atheeq2003" alt="atheeq2003" /></a>
+  <img src="https://jonmgomes.com/wp-content/uploads/2020/05/Comp_1.gif" width="200" height="100" alt="MasterHead">
+</p>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Problem Solving**
 
