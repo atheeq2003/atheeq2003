@@ -6,7 +6,6 @@
 💡 I'm also into problem-solving and DSA (Data Structures & Algorithms), always sharpening the blade.
 📈 My work reflects my obsession with performance, precision, and clean design.
 
-
 📫 How to reach me **atheeq.techie03@gmail.com**
 
 Feel free to explore my repos or just drop in to say hi!
@@ -24,9 +23,6 @@ Feel free to explore my repos or just drop in to say hi!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/streamlit/streamlit-icon.svg" alt="Streamlit" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kerasio/kerasio-icon.svg" alt="Keras" width="40" height="40"/>
 </p>
 
 ---
