@@ -1,7 +1,5 @@
 <h1 align="center">Hi I'm Atheeq 👋</h1>
 
----
-
 🧠 I’m interested in full stack development, Deep Learning, AI Engineering, and real-time intelligent systems.
 🔍 I’ve worked on CNNs, U-Nets, optimization algorithms (like Parrot Optimizer), and cool stuff like Sudoku visualizers.
 🛠️ I love building efficient systems—be it in the browser or on the terminal.
