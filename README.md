@@ -49,4 +49,3 @@
 <p align="center">
   <i>Obsessed with building scalable and intelligent systems.</i>
 </p>
-```
