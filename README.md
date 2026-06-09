@@ -38,7 +38,15 @@
 *  NL-to-SQL Enterprise AI Systems
 
 ---
+##  Writing & Blogs
 
+I document my learning journey and sharing practical insights on AI Engineering. Checkout my learning repo and blogs.
+
+📚 Blogs : [https://atheeq.hashnode.dev/](https://atheeq.hashnode.dev/)
+
+📝 Learning Repo : [https://github.com/atheeq2003/ai-engineering-playbook](https://github.com/atheeq2003/ai-engineering-playbook)
+
+---
 ## 📫 Connect With Me
 
 * 📧 [atheeq.techie03@gmail.com](mailto:atheeq.techie03@gmail.com)
@@ -47,5 +55,5 @@
 ---
 
 <p align="center">
-  <i>Obsessed with building scalable and intelligent systems.</i>
+  <i>Building scalable and intelligent systems.</i>
 </p>
